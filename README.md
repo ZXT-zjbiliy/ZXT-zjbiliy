@@ -1,13 +1,12 @@
 <div align="center">
 
-# Zhang Xiaotong (张小桐)
+# ZJbiliy
 
-**Software Engineering @ Zhejiang University** | AI & Agent Developer
+**Student @ Zhejiang University** | AI & Open Source Enthusiast
 
 Building with LLMs, Agents, MCP, and RAG — one PR at a time.
 
 [![GitHub followers](https://img.shields.io/github/followers/ZXT-zjbiliy?style=social)](https://github.com/ZXT-zjbiliy)
-[![Email](https://img.shields.io/badge/Email-xt.zhang@zju.edu.cn-blue?style=flat&logo=gmail)](mailto:xt.zhang@zju.edu.cn)
 
 </div>
 
@@ -15,11 +14,10 @@ Building with LLMs, Agents, MCP, and RAG — one PR at a time.
 
 ## About Me
 
-- 🎓 Software Engineering undergraduate at **Zhejiang University** (Class of 2028)
-- 📊 GPA: **4.67/5.0** (2024-2025) → **4.69/5.0** (2025-2026)
+- 🎓 Student at **Zhejiang University**
 - 🤖 Passionate about **AI Agents**, **MCP**, **RAG**, **Multimodal Models**, and **AI Infra**
 - 🔧 Contributing to open-source projects in the AI ecosystem
-- 🏆 Zhejiang Provincial Government Scholarship, multiple competition awards
+- 🏆 Multiple academic competition awards
 
 ---
 
@@ -71,8 +69,8 @@ Building with LLMs, Agents, MCP, and RAG — one PR at a time.
 Built a pipeline for transparent bottle residual liquid identification using YOLO OBB and traditional ML.
 
 - Custom **BottleDataset** (218 images) with LCDTC integration
-- **YOLO11m-OBB** rotation detection + 247-dimensional interpretable features (waterline, color, texture, gradient/frequency)
-- Compared SVM, Random Forest, XGBoost; achieved **mAP@0.5 = 0.811**, **mAP@0.5:0.95 = 0.757**
+- **YOLO11m-OBB** rotation detection + 247-dimensional interpretable features
+- Compared SVM, Random Forest, XGBoost; achieved **mAP@0.5 = 0.811**
 
 ### [minimind-llava-v](https://github.com/ZXT-zjbiliy/minimind-llava-v) — Lightweight Multimodal Model
 
@@ -90,27 +88,21 @@ Edge browser extension for automated AI questionnaire evaluation.
 
 ---
 
-## Awards & Honors
-
-| Award | Date |
-|-------|------|
-| Zhejiang Provincial Government Scholarship | 2024-2025 |
-| ZJU Second-Class Scholarship | 2024-2025 |
-| National College Student Math Competition (Zhejiang) — 1st Prize | 2025.11 |
-| Zhejiang Physics Innovation Competition — 1st Prize | 2025.12 |
-| ZJU Innovation & Entrepreneurship Model | 2025.12 |
-| ZJU Academic Excellence Model | 2025.12 |
-| National Physics Olympiad (Provincial) — 1st Prize | 2023.09 |
-| National Biology League — 1st Prize | 2023.07 |
-
----
-
 ## Research Interests
 
 - 🔬 Multimodal models and vision-language architectures
 - 🏗️ AI infrastructure and efficient training/inference
 - 🤖 Agent systems, MCP, and tool-use frameworks
-- 📚 Currently studying **Stanford CS336: Language Modeling from Scratch**
+
+---
+
+## Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZXT-zjbiliy/ZXT-zjbiliy/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZXT-zjbiliy/ZXT-zjbiliy/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ZXT-zjbiliy/ZXT-zjbiliy/output/github-snake.svg" />
+</picture>
 
 ---
 
