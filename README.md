@@ -4,9 +4,8 @@
 
 **Student @ Zhejiang University** | AI & Open Source Enthusiast
 
-Building with LLMs, Agents, MCP, and RAG — one PR at a time.
-
 [![GitHub followers](https://img.shields.io/github/followers/ZXT-zjbiliy?style=social)](https://github.com/ZXT-zjbiliy)
+[![GitHub stars](https://img.shields.io/github/stars/ZXT-zjbiliy?style=social)](https://github.com/ZXT-zjbiliy)
 
 </div>
 
@@ -15,7 +14,7 @@ Building with LLMs, Agents, MCP, and RAG — one PR at a time.
 ## About Me
 
 - 🎓 Student at **Zhejiang University**
-- 🤖 Passionate about **AI Agents**, **MCP**, **RAG**, **Multimodal Models**, and **AI Infra**
+- 🤖 Passionate about **AI Infra**, **AI Agents**, **Multimodal Models**
 - 🔧 Contributing to open-source projects in the AI ecosystem
 - 🏆 Multiple academic competition awards
 
