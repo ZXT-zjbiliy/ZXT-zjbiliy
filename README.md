@@ -38,6 +38,7 @@
 
 ---
 
+<!--
 ## Open Source Contributions
 
 <table>
@@ -60,6 +61,7 @@
 </table>
 
 ---
+-->
 
 ## Featured Projects
 
