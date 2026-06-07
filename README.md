@@ -118,4 +118,6 @@ Edge browser extension for automated AI questionnaire evaluation.
 
 *"The best way to predict the future is to invent it."* — Alan Kay
 
+![Visitors](https://komarev.com/ghpvc/?username=ZXT-zjbiliy&color=blue&style=flat)
+
 </div>
