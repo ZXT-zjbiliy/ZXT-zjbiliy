@@ -1,0 +1,7 @@
+# Clash Verge Rev 自定义规则（按顺序匹配；将“代理”替换为你配置中的代理组名称）
+- GEOSITE,category-ads-all,REJECT
+- GEOIP,LAN,DIRECT
+- GEOSITE,private,DIRECT
+- GEOSITE,cn,DIRECT
+- GEOIP,CN,DIRECT
+- MATCH,代理
