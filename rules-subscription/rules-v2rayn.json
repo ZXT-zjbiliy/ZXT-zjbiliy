@@ -1,0 +1,38 @@
+[
+  {
+    "outboundTag": "block",
+    "domain": ["geosite:category-ads-all"],
+    "enabled": true,
+    "remarks": "拦截广告域名"
+  },
+  {
+    "outboundTag": "direct",
+    "ip": ["geoip:private"],
+    "enabled": true,
+    "remarks": "局域网 IP 直连"
+  },
+  {
+    "outboundTag": "direct",
+    "domain": ["geosite:private"],
+    "enabled": true,
+    "remarks": "局域网域名直连"
+  },
+  {
+    "outboundTag": "direct",
+    "domain": ["geosite:cn"],
+    "enabled": true,
+    "remarks": "中国大陆域名直连"
+  },
+  {
+    "outboundTag": "direct",
+    "ip": ["geoip:cn"],
+    "enabled": true,
+    "remarks": "中国大陆 IP 直连"
+  },
+  {
+    "port": "0-65535",
+    "outboundTag": "proxy",
+    "enabled": true,
+    "remarks": "其余流量走当前代理"
+  }
+]
